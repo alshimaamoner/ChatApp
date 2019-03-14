@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "855877228690",
+    "firebase_url": "https://chatg1.firebaseio.com",
+    "project_id": "chatg1",
+    "storage_bucket": "chatg1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855877228690:android:757859206012956f",
+        "android_client_info": {
+          "package_name": "com.route.chatappg1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855877228690-trlpc2f5ttvlrcs8ccdkfg1lnn75rg2l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgxA3t3z0yUu7jyFjZ0srAXRXNnq1nr4o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
